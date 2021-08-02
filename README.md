@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sugandanb
-- 👀 I’m interested in python, databases & machine learning for use cases
+- 👀 I’m interested in python, databases & machine learning  use cases
 - 🌱 I’m currently learning Singlestore's solutions
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
